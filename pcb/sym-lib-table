@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name STM8Feather-rescue)(type Legacy)(uri ${KIPRJMOD}/STM8Feather-rescue.lib)(options "")(descr ""))
+)
